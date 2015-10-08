@@ -1,6 +1,6 @@
 # laravel-transchecker
 
-Simple Laravel Artisan command do check your language files for inconsistencies.
+Simple Laravel Artisan command to check your language files for inconsistencies.
 
 # What it does
 
