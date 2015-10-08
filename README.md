@@ -58,9 +58,10 @@ There are 4 missing entries:
 Finished with 5 errors
 ```
 
-# Issues / Todo
+# Still todo...
 
-- TODO: Support for deeply nested arrays
-- TODO: Crosschecking parameters and pluralizations
-- TODO: Add ready to use unittesting possibilities
-- No support for vendor languagefiles
+- Adding support for deeply nested arrays
+- Crosschecking parameters and pluralizations
+- Add ready-to-use unittesting possibilities
+- Add more comments in the sourcecode...
+- Add support for vendor languagefiles
