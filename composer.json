@@ -1,0 +1,21 @@
+{
+    "name": "sleepybuildings/transchecker",
+    "keywords": ["laravel", "language", "trans", "lang"],
+    "description": "Laravel 5 Languagefile checker",
+    "authors": [
+        {
+            "name": "Thomas Smit",
+            "email": "thomas@tsmit.nl"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9",
+        "illuminate/support": "5.1.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sleepybuildings\\Transchecker\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
