@@ -16,6 +16,5 @@
         "psr-4": {
             "Sleepybuildings\\Transchecker\\": "src/"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
